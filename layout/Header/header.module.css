@@ -1,0 +1,22 @@
+.Container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background: black;
+    padding: 12px;
+}
+.logoContainer{
+    width: 20%;
+}
+.logoContainer >img{
+    width: 100%;
+}
+.links{
+    display: flex;
+    /* gap: 26px; */
+    align-items: center;
+    justify-content: space-evenly;
+    /* padding: 16px 232px; */
+    width: 70%;
+    color: white;
+}
