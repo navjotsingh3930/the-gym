@@ -16,7 +16,7 @@ const Footer = () => {
        
       </div>
       <div className={styles.bottomFooter}>
-       <ul>
+       <ul className={"ds"}>
          <li>
          <AiOutlineFacebook/>
          </li>
