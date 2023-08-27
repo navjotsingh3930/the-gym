@@ -1,0 +1,6 @@
+.paraContainer{
+    gap: 27px;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 54px;
+}
